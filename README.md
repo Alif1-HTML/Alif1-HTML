@@ -1,4 +1,22 @@
-## Hi there 👋
+
+# Hello There
+
+## I'm Alif Akram Darmawan. A 10th-grade student and aspiring Software Engineer from Indonesia. 🇮🇩
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/Rusindolif)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/c/alifakramdarmawan4892)
+
+#My future University
+![National University Of Singapore](https://img.shields.io/badge/https://freebiesupply.com/logos/nus-logo/)
+![ITS](https://img.shields.io/badge/https://www.its.ac.id/tentang/panduan-identitas-visual/)
+
+
+### 🚀 About Me
+- 🔭 Coding for fun and also art.
+- 📚 I'm studying for the *National Science Olympiad (OSN)* in Informatics (going into IOI soon).
+- 💻 Learning *C++* and *Python* for competitive programming
+
+
 
 <!--
 **Alif1-HTML/Alif1-HTML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
