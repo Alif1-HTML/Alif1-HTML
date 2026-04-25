@@ -6,11 +6,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/Rusindolif)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/c/alifakramdarmawan4892)
 
-#My future University
-![National University Of Singapore](https://img.shields.io/badge/https://freebiesupply.com/logos/nus-logo/)
-![ITS](https://img.shields.io/badge/https://www.its.ac.id/tentang/panduan-identitas-visual/)
-
-
 ### 🚀 About Me
 - 🔭 Coding for fun and also art.
 - 📚 I'm studying for the *National Science Olympiad (OSN)* in Informatics (going into IOI soon).
