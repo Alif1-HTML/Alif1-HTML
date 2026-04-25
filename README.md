@@ -4,7 +4,7 @@
 ## I'm Alif Akram Darmawan. A 10th-grade student and aspiring Software Engineer from Indonesia. 🇮🇩
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/Rusindolif)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/c/alifakramdarmawan4892)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/c/Alif Akram darmawan)
 
 ### 🚀 About Me
 - 🔭 Coding for fun and also art.
