@@ -1,5 +1,5 @@
 
-# Hello There
+# Hello people
 
 ## I'm Alif Akram Darmawan. A 10th-grade student and aspiring Software Engineer from Indonesia. 🇮🇩
 
