@@ -14,7 +14,7 @@
 
 
 
-- ### My love of my life
+- ### Love of my life
 <img width="200" height="100" alt="Image" src="https://github.com/user-attachments/assets/e96f1bd2-cfd2-45ff-8910-f195f251b063" />
 
 
