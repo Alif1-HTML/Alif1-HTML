@@ -1,5 +1,5 @@
 
-# Hello people
+# Hello people <img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/e96f1bd2-cfd2-45ff-8910-f195f251b063" />
 
 ## I'm Alif Akram Darmawan. A 10th-grade student and aspiring Software Engineer from Indonesia. 🇮🇩
 
