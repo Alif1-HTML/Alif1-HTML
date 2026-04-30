@@ -5,7 +5,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/Rusindolif)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/c/@alifakramdarmawan4892)
-<img width="250" height="150" alt="Image" src="https://github.com/user-attachments/assets/e96f1bd2-cfd2-45ff-8910-f195f251b063" />
+
 
 ### 🚀 About Me
 - 🔭 Coding for fun and also art.
