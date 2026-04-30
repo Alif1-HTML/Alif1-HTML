@@ -12,7 +12,7 @@
 - 📚 I'm studying for the *National Science Olympiad (OSN)* in Informatics (going into IOI soon).
 - 💻 Learning *C++* and *Python* for competitive programming
 
-- ### Random Stuff
+- ### My love of my life
 <img width="200" height="100" alt="Image" src="https://github.com/user-attachments/assets/e96f1bd2-cfd2-45ff-8910-f195f251b063" />
 
 
